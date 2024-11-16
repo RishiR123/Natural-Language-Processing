@@ -1,6 +1,6 @@
 # 🌐 Natural Language Processing (NLP) Repository  
 
-![NLP Banner](https://via.placeholder.com/800x200?text=Natural+Language+Processing+with+Tiers)  
+![NLP Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg4ZmI0aGZsdzFuMmQwcW5iNzBjOGZkcm5zNnRvODdreWFic25ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2c1KjuCQTaZgc/giphy.webp)  
 
 This repository is a curated collection of NLP projects ranging from **basic tasks** to **advanced implementations**. Each project is categorized into three tiers:  
 
