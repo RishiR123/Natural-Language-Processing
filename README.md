@@ -24,7 +24,26 @@ Key Features:
 Sentiment recognition: Positive, Neutral, Negative.
 Context-aware multi-turn conversations.
 Scalable architecture with a vector database.
+
 2. Project X (Coming Soon)
 Overview: To be updated.
-3. Project Y (Coming Soon)
+
+4. Project Y (Coming Soon)
 Overview: To be updated.
+
+## 🟡 Tire 2: Intermediate
+These projects explore real-world NLP applications.
+
+### 1. Sentiment Analysis
+
+Overview: A text classifier that identifies sentiments as Positive, Neutral, or Negative.
+Tech Stack: Hugging Face Transformers, Scikit-learn.
+Key Features:
+Preprocessing pipeline: Tokenization, Stopword Removal.
+Fine-tuned transformer model for sentiment prediction.
+2. Text Summarization
+Overview: Summarizes long articles into concise summaries.
+Tech Stack: Python, Hugging Face Transformers.
+Key Features:
+Abstractive summarization using fine-tuned models.
+Support for multi-document summarization.
