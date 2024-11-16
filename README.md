@@ -44,3 +44,25 @@ Tech Stack: Python, Hugging Face Transformers.
 Key Features:
 Abstractive summarization using fine-tuned models.
 Support for multi-document summarization.
+
+
+## 🟢 Tire 3: Basic
+These projects cover fundamental NLP techniques and concepts.
+
+### 1. Text Preprocessing
+
+Overview: A foundational project showcasing core NLP techniques.
+Techniques:
+Tokenization and Lemmatization.
+Stopword Removal and N-gram generation.
+Part-of-Speech tagging.
+### 2. Bag of Words
+Overview: An implementation of the Bag of Words technique for text representation.
+Key Features:
+Sparse matrix generation.
+Word frequency counting.
+### 3. TF-IDF
+Overview: Demonstrates the TF-IDF technique for document similarity.
+Key Features:
+Calculates term importance across documents.
+Sparse matrix representation.
