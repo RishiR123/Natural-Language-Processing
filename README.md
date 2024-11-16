@@ -40,3 +40,21 @@ Natural-Language-Processing/
     │   └── README.md
     ├── Bag_of_Words/
     └── TF_IDF/
+
+
+## 🌟 Projects
+### 🔴 Tire 1: Advanced
+These projects demonstrate advanced NLP techniques and applications.
+
+### 1. Emotional Chatbot
+
+Overview: A chatbot capable of understanding user emotions and generating empathetic responses.
+Tech Stack: Hugging Face Transformers, Pinecone, Python.
+Key Features:
+Sentiment recognition: Positive, Neutral, Negative.
+Context-aware multi-turn conversations.
+Scalable architecture with a vector database.
+2. Project X (Coming Soon)
+Overview: To be updated.
+3. Project Y (Coming Soon)
+Overview: To be updated.
